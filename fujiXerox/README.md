@@ -19,5 +19,5 @@ FWIW, you should also be abled to see a shared printer, 192.168.6.2 and use that
 Windows
 ==========
 
-[Windows 10](https://github.com/hackerspacesg/hackerspace.sg/issues/128)
-
+* [Windows 10](https://github.com/hackerspacesg/hackerspace.sg/issues/128)
+* For Windows 8 and 8.1: download x64 PCL Driver and select a PCL B/W driver during installation.
