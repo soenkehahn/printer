@@ -15,3 +15,9 @@ In `/Library/Printers/FujiXerox/Filter`, unzip `fxnpdftopdf.gz` and add the fold
 
 FWIW, you should also be abled to see a shared printer, 192.168.6.2 and use that to print.
 
+
+Windows
+==========
+
+[Windows 10](https://github.com/hackerspacesg/hackerspace.sg/issues/128)
+
