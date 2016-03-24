@@ -21,3 +21,10 @@ Windows
 
 * [Windows 10](https://github.com/hackerspacesg/hackerspace.sg/issues/128)
 * For Windows 8 and 8.1: download x64 PCL Driver and select a PCL B/W driver during installation.
+
+Linux
+=====
+
+The printer showed up (by ip address) automatically, but using that printer didn't work properly.
+
+Adding the `FUJI_XEROX_DocuPrint_3055` printer through the cups web interface (using default options) resulted in a working printer. (On ubuntu wily, see https://help.ubuntu.com/12.04/serverguide/cups.html)
