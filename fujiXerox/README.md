@@ -21,3 +21,8 @@ Windows
 
 * [Windows 10](https://github.com/hackerspacesg/hackerspace.sg/issues/128)
 * For Windows 8 and 8.1: download x64 PCL Driver and select a PCL B/W driver during installation.
+
+Linux (ubuntu wily)
+===================
+
+The printer shows up automatically by ip address in the list of available printers. But for me that printer just printed out garbled text. What worked: going through the web interface of cups and adding a new network printer `FUJI_XEROX_DocuPrint_3055` with the default options. (See https://help.ubuntu.com/12.04/serverguide/cups.html.)
